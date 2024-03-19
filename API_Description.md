@@ -20,7 +20,10 @@
 * GET /crpto/name/price
   * https://3040crypto/42342134/crypto/bitcoin/price
   * Sample response:
-  * 
-  
+  ``` 
+     {
+        cost: 60864.23
+     }
+```
 
 
