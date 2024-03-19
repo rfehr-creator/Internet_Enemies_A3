@@ -6,11 +6,11 @@ Our API will provide our users with all the necessary tools required for crypto 
 * GET /{account}/history
     * Sample request
       * https://3040crypto/1234134/history
-   ```json
-   [
-      This will be a list of transactions for the specific account
-   ]
-   ```
+         ```json
+         [
+            This will be a list of transactions for the specific account
+         ]
+         ```
 
 * GET /{account}/balance
 
