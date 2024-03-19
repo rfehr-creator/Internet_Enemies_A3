@@ -9,10 +9,12 @@
    * Sample request
    * https://3040crypto/1234134/balance
 
-Sample response
-{
-   balance: 1234.00
-}
+  * Sample response
+    ```json
+    {
+     balance: 1234.00
+    }
+    ```  
 
 
 * GET /crpto/name/price
