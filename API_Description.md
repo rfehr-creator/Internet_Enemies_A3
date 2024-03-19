@@ -33,6 +33,4 @@ Our API will provide our users with all the necessary tools required for crypto 
      {
         cost: 60864.23
      }
-```
-
-
+   ```
