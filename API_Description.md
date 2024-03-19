@@ -2,9 +2,18 @@
 ## API Description
 
 ## Endpoints
-GET /balance
+GET /account/history
 
-GET /history
+GET /account/balance
+
+Sample request
+https://3040crypto/1234134/balance
+
+Sample response
+{
+   balance: 1234.00
+}
+
 
 * GET /crpto/name/price
   * https://3040crypto/42342134/crypto/bitcoin/price
