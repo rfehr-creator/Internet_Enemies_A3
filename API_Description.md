@@ -7,7 +7,7 @@
 * GET /account/balance
 
    * Sample request
-   * https://3040crypto/1234134/balance
+     * https://3040crypto/1234134/balance
 
   * Sample response
     ```json
