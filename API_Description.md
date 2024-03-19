@@ -6,7 +6,7 @@ Our API will provide our users with all the necessary tools required for crypto 
 * GET /{account}/history
     * Sample request
       * https://3040crypto/1234134/history
-      * Sample response
+   * Sample response
       ```json
       [
          This will be a list of transactions for the specific account
