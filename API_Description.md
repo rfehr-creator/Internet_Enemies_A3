@@ -3,6 +3,8 @@
 
 ## Endpoints
 * GET /account/history
+    * Sample request
+      * https://3040crypto/1234134/history
 
 * GET /account/balance
 
