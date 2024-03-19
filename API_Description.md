@@ -1,6 +1,7 @@
-# API Description
+# 3040 Crypto API
+## API Description
 
-# Endpoints
+## Endpoints
 GET /balance
 
 GET /history
