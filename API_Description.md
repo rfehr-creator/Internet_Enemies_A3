@@ -2,12 +2,12 @@
 ## API Description
 
 ## Endpoints
-GET /account/history
+* GET /account/history
 
-GET /account/balance
+* GET /account/balance
 
-Sample request
-https://3040crypto/1234134/balance
+   * Sample request
+   * https://3040crypto/1234134/balance
 
 Sample response
 {
