@@ -5,7 +5,7 @@
 * GET /account/history
     * Sample request
       * https://3040crypto/1234134/history
-          ```json
+      ```json
     {
      * Transaction:
         * from - You
